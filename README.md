@@ -28,6 +28,8 @@ I focus on clean code, performance optimization, and scalable solutions that sup
 - Wix
 - Squarespace
 - ShowIt
+- Framer
+- Bricks
 
 ### 💻 Technical Skills
 - HTML, CSS, jQuery
@@ -50,7 +52,7 @@ I focus on clean code, performance optimization, and scalable solutions that sup
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| CMS | WordPress, WooCommerce, Shopify, Webflow, Wix, Squarespace |
+| CMS | WordPress, WooCommerce, Shopify, Webflow, Wix, Squarespace, Framer |
 | Builders | Elementor, WPBakery, Gutenberg, Oxygen, ACF, Bricks |
 | Frontend | HTML, CSS, jQuery |
 | Backend | PHP |
